@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreeter", "GrpcGreeter\GrpcGreeter.csproj", "{07B9A6DF-D6E5-4EAC-8757-B2F9EE523F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreeterClient", "GrpcGreeterClient\GrpcGreeterClient.csproj", "{C93135EA-5065-451F-A03F-4B205C6A2D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B9A6DF-D6E5-4EAC-8757-B2F9EE523F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B9A6DF-D6E5-4EAC-8757-B2F9EE523F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B9A6DF-D6E5-4EAC-8757-B2F9EE523F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B9A6DF-D6E5-4EAC-8757-B2F9EE523F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93135EA-5065-451F-A03F-4B205C6A2D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93135EA-5065-451F-A03F-4B205C6A2D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93135EA-5065-451F-A03F-4B205C6A2D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93135EA-5065-451F-A03F-4B205C6A2D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
